@@ -1,1 +1,1 @@
-# 360Sneaker_slider
+# Efecto 360° 
